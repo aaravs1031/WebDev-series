@@ -59,25 +59,19 @@ background-size: contain;
    float: right; /* this is for horizontal addition of image */
    background-repeat: no-repeat; /* picture might multiply in number to fit size */
    background-size: contain;
-   
+
 }
 #image2:hover{
     cursor: pointer;
-    transform: scale(1.5); 
+    transform: scale(1.5);
 }
-    
+
 #image3:hover{
         cursor: pointer;
-        transform: scale(1.5); 
+        transform: scale(1.5);
 }
 
 #image4:hover{
     cursor: pointer;
     transform: scale(1.5);
 }
-
-
-
-
-
-
